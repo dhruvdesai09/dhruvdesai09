@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning the basics of web development.
+🌱 I’m currently learning the basics of Java Development.
 
 
 # 💻 Tech Stack:
